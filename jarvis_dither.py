@@ -1,3 +1,9 @@
+# This script was generated with the assistance of Google Gemini.
+# Copyright (C) 2026 [Don Rayner]
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License.
+#
 import os
 import sys
 import numpy as np
